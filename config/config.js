@@ -9,7 +9,7 @@
 
 const config = {
     appkey: 'your appkey',
-    apiBaseUrl: 'http://localhost:8081/v1/'
+    apiBaseUrl: 'http://localhost:8082/v1/'
 }
 
 export {
